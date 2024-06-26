@@ -1,5 +1,5 @@
-/* Header */
 @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Preahvihear&display=swap');
 
 * {
     margin: 0;
@@ -51,4 +51,115 @@
 
     background: #11071F;
 
+}
+
+.mtext {
+    font-family: "Preahvihear", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    left: 610px;
+    top: 200px;
+}
+
+.mtext1 {
+    color: white;
+}
+
+.mtext2 {
+    color: rgb(113, 39, 186);
+}
+
+.gradient {
+
+
+    position: absolute;
+    width: 400px;
+    height: 450px;
+    left: 200px;
+    top: 192px;
+
+    background: radial-gradient(50% 50% at 50% 50%, #763CAC 0%, rgba(50, 15, 133, 0) 100%);
+
+}
+
+.elipse1 {
+
+
+    position: absolute;
+    width: 258px;
+    height: 259px;
+    left: 72px;
+    top: 75px;
+
+    background: radial-gradient(50% 50% at 50% 50%, #FFFFFF 17.71%, rgba(67, 67, 67, 0) 100%);
+}
+
+.mtext01 {
+    color: white;
+    top: 230px;
+
+}
+
+.mtext02 {
+    top: 260px;
+    width: 300px;
+    color: white;
+    font-size: 40px;
+
+
+}
+
+.elipse01 {
+    /* Ellipse 5 */
+
+    box-sizing: border-box;
+    position: absolute;
+    width: 166.58px;
+    height: 77.9px;
+    left: 726px;
+    top: 327.6px;
+    border: 1px solid #FFFFFF;
+    transform: rotate(-4.74deg);
+    border-radius: 50%;
+
+
+
+}
+.mtext3{
+    color: white;
+    top: 400px;
+}
+.arrow{
+    /* Arrow */
+
+position: absolute;
+width: 91.78px;
+height: 81.86px;
+left: 490.88px;
+top: 195.24px;
+
+
+transform: rotate(-4.74deg);
+
+}
+.mtext4{
+    top: 680px;
+    color: white;
+    font-size: 60px;
+    left: 330px;
+}
+.avtar {
+    position: absolute;
+    width: 165px;
+    height: 223px;
+    left: 320px;
+    top: 290.68px;
+    
+    background: url(avtar.svg);
+}
+.logo img{
+    height: 50px;
+    width: 70px;
+    filter: invert(1);
 }
