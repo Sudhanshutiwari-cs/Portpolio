@@ -74,11 +74,10 @@
 
 
     position: absolute;
-    width: 400px;
-    height: 450px;
-    left: 200px;
-    top: 192px;
-
+    width: 442px;
+    height: 517px;
+    left: 209px;
+    top: 133px;
     background: radial-gradient(50% 50% at 50% 50%, #763CAC 0%, rgba(50, 15, 133, 0) 100%);
 
 }
@@ -87,10 +86,10 @@
 
 
     position: absolute;
-    width: 258px;
-    height: 259px;
-    left: 72px;
-    top: 75px;
+    width: 276px;
+    height: 277px;
+    left: 89px;
+    top: 107px;
 
     background: radial-gradient(50% 50% at 50% 50%, #FFFFFF 17.71%, rgba(67, 67, 67, 0) 100%);
 }
@@ -153,7 +152,7 @@ transform: rotate(-4.74deg);
     position: absolute;
     width: 165px;
     height: 223px;
-    left: 320px;
+    left: 353px;
     top: 290.68px;
     
     background: url(avtar.svg);
@@ -162,4 +161,48 @@ transform: rotate(-4.74deg);
     height: 50px;
     width: 70px;
     filter: invert(1);
+}
+.designation{
+    color: white;
+    top: 770px;
+    left: 330px;
+    font-size: 17px;
+}
+.clg{
+    color: rgb(24, 119, 242);
+    top: 770px;
+    left: 830px;
+    font-size: 17px;
+}
+.about{
+    color: white;
+    width: 56.5vw;
+    top: 840px;
+    left: 330px;
+    font-size: 20px;
+}
+.skills{
+    /* Group 1910 */
+
+position: absolute;
+width: 700px;
+height: 550px;
+left: 400px;
+top: 1230px;
+border: 2px solid black;
+
+
+}
+.elipse01{
+    
+stop-color: #763CAC;
+box-sizing: border-box;
+
+position: absolute;
+width: 625px;
+height: 269px;
+left: 450px;
+top: 1350px;
+
+
 }
